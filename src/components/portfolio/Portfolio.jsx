@@ -69,7 +69,7 @@ const data = [
         genre: 'React website',
         technologies: 'HTML, JavaScript, CSS, React',
         github: 'https://github.com/MartinQuijano/random-movie',
-        demo: 'http://randommovie.infinityfreeapp.com/'
+        demo: 'https://randomlymovie.netlify.app/'
     }
 ]
 
