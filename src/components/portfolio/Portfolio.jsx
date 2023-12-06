@@ -12,6 +12,33 @@ import IMG9 from "../../assets/whatiread.png";
 
 const data = [
   {
+    id: 7,
+    image: IMG7,
+    title: "RandomMovie",
+    genre: "React website",
+    technologies: "HTML, JavaScript, CSS, React",
+    github: "https://github.com/MartinQuijano/random-movie",
+    demo: "https://randomlymovie.netlify.app/",
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: "Energy Center",
+    genre: "NextJS website",
+    technologies: "HTML, JavaScript, CSS, NextJS, MongoDB",
+    github: null,
+    demo: "https://www.energycenter.com.ar/",
+  },
+  {
+    id: 9,
+    image: IMG9,
+    title: "What I Read",
+    genre: "NextJS website with Spring Boot",
+    technologies: "HTML, JavaScript, CSS, NextJS, Spring Boot, MySQL",
+    github: "https://github.com/MartinQuijano/next-whatiread",
+    demo: null,
+  },
+  {
     id: 1,
     image: IMG1,
     title: "Leapy",
@@ -64,33 +91,6 @@ const data = [
     technologies: "Unity, C#",
     github: "https://github.com/MartinQuijano/Commanders",
     demo: "https://kottler.itch.io/commanders",
-  },
-  {
-    id: 7,
-    image: IMG7,
-    title: "RandomMovie",
-    genre: "React website",
-    technologies: "HTML, JavaScript, CSS, React",
-    github: "https://github.com/MartinQuijano/random-movie",
-    demo: "https://randomlymovie.netlify.app/",
-  },
-  {
-    id: 8,
-    image: IMG8,
-    title: "Energy Center",
-    genre: "NextJS website",
-    technologies: "HTML, JavaScript, CSS, NextJS, MongoDB",
-    github: null,
-    demo: "https://www.energycenter.com.ar/",
-  },
-  {
-    id: 9,
-    image: IMG8,
-    title: "What I Read",
-    genre: "NextJS website with Spring Boot",
-    technologies: "HTML, JavaScript, CSS, NextJS, Spring Boot, MySQL",
-    github: "https://github.com/MartinQuijano/next-whatiread",
-    demo: null,
   },
 ];
 
