@@ -24,7 +24,7 @@ const data = [
     id: 8,
     image: IMG8,
     title: "Energy Center",
-    genre: "NextJS website",
+    genre: "NextJS Ecommerce website",
     technologies: "HTML, JavaScript, CSS, NextJS, MongoDB",
     github: null,
     demo: "https://www.energycenter.com.ar/",
