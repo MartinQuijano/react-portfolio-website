@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <CgWebsite className="about__icon" />
               <h5>Websites</h5>
-              <small>5+ Completed</small>
+              <small>6+ Completed</small>
             </article>
             <article className="about__card">
               <MdOutlineVideogameAsset className="about__icon" />
@@ -30,8 +30,8 @@ const About = () => {
             </article>
           </div>
           <p>
-            Martín Nahuel Quijano is a Computer Science graduate specializing in the development of Web applications and Videogames. Continually improving and
-            building projects on those subjects.
+            Martín Nahuel Quijano is a Computer Science graduate specializing in the development of Web applications and Videogames. Continually
+            improving and building projects on those subjects.
           </p>
         </div>
       </div>

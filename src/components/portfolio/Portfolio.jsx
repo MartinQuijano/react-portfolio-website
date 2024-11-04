@@ -9,8 +9,18 @@ import IMG6 from "../../assets/Commanders.png";
 import IMG7 from "../../assets/randommovies.png";
 import IMG8 from "../../assets/energycenter.png";
 import IMG9 from "../../assets/whatiread.png";
+import IMG10 from "../../assets/wowguesser.png";
 
 const data = [
+  {
+    id: 10,
+    image: IMG10,
+    title: "WoW Guesser",
+    genre: "NextJS website",
+    technologies: "HTML, JavaScript, CSS, NextJS, MongoDB",
+    github: null,
+    demo: "https://wowguesser.com",
+  },
   {
     id: 7,
     image: IMG7,
